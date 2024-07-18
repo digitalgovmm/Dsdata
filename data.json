@@ -1,17 +1,17 @@
 [
   {
     "title": "Example Title 1",
-    "image": "https://example.com/image1.jpg",
-    "url": "https://example.com/page1"
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "url": "https://jellyvenus.com"
   },
   {
     "title": "Example Title 2",
-    "image": "https://example.com/image2.jpg",
-    "url": "https://example.com/page2"
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "url": "https://www.base64encode.org/"
   },
   {
     "title": "Example Title 3",
-    "image": "https://example.com/image3.jpg",
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
     "url": "https://example.com/page3"
   }
 ]
