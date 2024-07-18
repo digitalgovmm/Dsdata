@@ -1,17 +1,33 @@
-[
-  {
-    "title": "Example Title 1",
-    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-    "url": "https://jellyvenus.com"
-  },
-  {
-    "title": "Example Title 2",
-    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-    "url": "https://www.base64encode.org/"
-  },
-  {
-    "title": "Example Title 3",
-    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-    "url": "https://example.com/page3"
-  }
-]
+{
+  "slider_images": [
+    {
+      "slider_image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "image_click_link": "https://jellyvenus.com"
+    },
+    {
+      "slider_image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "image_click_link": "https://www.base64encode.org/"
+    },
+    {
+      "slider_image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "image_click_link": "https://example.com/page3"
+    }
+  ],
+  "content": [
+    {
+      "title": "Example Title 1",
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "url": "https://jellyvenus.com"
+    },
+    {
+      "title": "Example Title 2",
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "url": "https://www.base64encode.org/"
+    },
+    {
+      "title": "Example Title 3",
+      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "url": "https://example.com/page3"
+    }
+  ]
+}
